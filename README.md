@@ -40,5 +40,5 @@
 
 ## Contact
 
-- GitHub [@rogueshark27](https://github.com/rogue-shark)
-- Codepen [@rogueshark27](https://codepen.io/rogue-shark)
+- GitHub [@rogue-shark](https://github.com/rogue-shark)
+- Codepen [@rogue-shark](https://codepen.io/rogue-shark)
